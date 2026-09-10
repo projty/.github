@@ -2,7 +2,6 @@
 
 # ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) projty
 
-![Views](https://komarev.com/ghpvc/?username=triesd)
 <img src="https://img.shields.io/github/followers/projty?color=0000FF&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
 
 `Tech Enthusiast`
