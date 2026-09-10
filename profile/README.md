@@ -8,17 +8,15 @@
 
 ## 📊 Skills
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+<a href="https://discord.com/users/1186216678732861531">
+  <img src="https://skillicons.dev/icons?i=discord" width="256" height="256">
+</a>
 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" width="256" height="256">
 
-## 💬 Socials
-[![Discord](https://skillicons.dev/icons?i=discord&perline=1&size=256)](https://discord.com/users/1186216678732861531)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg" width="256" height="256">
 
-![Discord.js](https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg?raw=true)
-
-![Astro](https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg)
-
-![JavaScript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
-</div>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="256" height="256">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer" width="100%"/>
