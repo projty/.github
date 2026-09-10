@@ -11,10 +11,13 @@
 
 
 ## 💬 Socials
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1186216678732861531)
-[![Discord.js](https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg)
-[![Astro](https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg)
-[![Javascript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
+[![Discord](https://skillicons.dev/icons?i=discord&perline=1&size=256)](https://discord.com/users/1186216678732861531)
+
+![Discord.js](https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg?raw=true)
+
+![Astro](https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg)
+
+![JavaScript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
 </div>
 
 <p align="center">
