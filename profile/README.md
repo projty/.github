@@ -1,12 +1,27 @@
-## Hi there 👋
+<div align="left">
+
+# ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) projty
+
+<img src="https://komarev.com/ghpvc/?username=projty&color=0000FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" /> <img src="https://img.shields.io/github/followers/projty?color=0000FF&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+
+`Tech Enthusiast`
+
+## 📊 Skills
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+
+
+## 💬 Socials
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1186216678732861531)
+[![Discord.js](https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg)
+[![Astro](https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg)
+[![Javascript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer" width="100%"/>
+</p>
 
 <!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
